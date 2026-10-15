@@ -6,6 +6,8 @@ The 'shared abstract computation' is the comparison operator, but which can late
 #Experiment 1
 Experiment 1 tests one claim: when a transformer performs the same abstract operation on different input domains, part of its causal computation is shared, and that shared part sits in a bounded band of layers between domain-specific encoding and decoding.
 
+#Experiment 2 (Falsified) 
+Do the IOI inhibition heads and the Colored Objects content-gatherer heads write one shared variable that the mover heads read, with opposite signs (suppress vs promote)?
 
 
 
