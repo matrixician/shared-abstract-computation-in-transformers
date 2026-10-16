@@ -6,6 +6,7 @@ It contains 4 experiments, across two different angles -- 1. an abstract compari
 
 
 relevant papers: 
+## Neuroscience Motivation 
 - [The cognition and neuroscience of relational reasoning](https://sites.socsci.uci.edu/~lpearl/courses/readings/Krawczyk2010.pdf)
 - [Circuit Component Reuse Across Tasks in Transformer Language Models](https://arxiv.org/abs/2310.08744)
 - [Towards Interpretable Sequence Continuation: Analyzing Shared Circuits in Large Language Models](https://aclanthology.org/2024.emnlp-main.699/)
