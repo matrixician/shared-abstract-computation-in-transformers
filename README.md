@@ -4,9 +4,9 @@ This project is designed to test the conditions under which (and whether) transf
 
 
 relevant papers: 
-[The cognition and neuroscience of relational reasoning](https://sites.socsci.uci.edu/~lpearl/courses/readings/Krawczyk2010.pdf)
-[Circuit Component Reuse Across Tasks in Transformer Language Models](https://arxiv.org/abs/2310.08744)
-[Towards Interpretable Sequence Continuation: Analyzing Shared Circuits in Large Language Models](https://aclanthology.org/2024.emnlp-main.699/)
+- [The cognition and neuroscience of relational reasoning](https://sites.socsci.uci.edu/~lpearl/courses/readings/Krawczyk2010.pdf)
+- [Circuit Component Reuse Across Tasks in Transformer Language Models](https://arxiv.org/abs/2310.08744)
+- [Towards Interpretable Sequence Continuation: Analyzing Shared Circuits in Large Language Models](https://aclanthology.org/2024.emnlp-main.699/)
 
 # Experiment 1
 A 'shared abstract computation' is considered: the comparison operator, but which can later include more complex operators such as symmetry, succession, rotation, etc which occur across tasks with disparate representations. 
