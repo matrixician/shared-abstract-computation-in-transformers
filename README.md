@@ -2,7 +2,7 @@
 
 This project intends to test the conditions and mechanisms under/using which transformers form shared circuits (reuse the same heads and mlps) for the same underlying computations, but which are represented in the form of tasks which appear different on the surface. 
 
-It contains 4 experiments. 
+It contains 4 experiments, across two different angles -- 1. an abstract comparison operation that is tested across four distinct domains. 2. the IOI (Indirect object Induction) and  CO (Colored Objects) overlapping circuit across models like Qwen2, Pythia1.5B and GPT 2 Medium. 
 
 
 relevant papers: 
