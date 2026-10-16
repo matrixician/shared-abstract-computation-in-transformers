@@ -6,7 +6,7 @@ This project intends to test the conditions and mechanisms under/using which tra
 It contains 4 experiments, from two angles -- 1. an abstract comparison operation that is tested across four distinct domains (training transformers from scratch and examining generalization). 2. the IOI (Indirect object Identificaiton) and  CO (Colored Objects) overlapping circuit across models like Qwen2 and GPT 2 Medium. 
 
 ### Main IOI/CO Paper
-- [The cognition and neuroscience of relational reasoning](https://sites.socsci.uci.edu/~lpearl/courses/readings/Krawczyk2010.pdf)
+- [The cognition and neuroscience of relational reasoning](https://sites.socsci.uci.edu/~lpearl/courses/readings/Krawczyk2010.pdf) (random neuroscience)
 - [Circuit Component Reuse Across Tasks in Transformer Language Models](https://arxiv.org/abs/2310.08744)
 
 
