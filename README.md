@@ -1,6 +1,8 @@
 
 
-This project is designed to test the conditions under which (and whether) transformers form shared circuits for the same underlying computation but which are represented across disparate domains. It contains 4 experiments. 
+This project intends to test the conditions and mechanisms under/using which transformers form shared circuits (reuse the same heads and mlps) for the same underlying computations, but which are represented in the form of tasks which appear different on the surface. 
+
+It contains 4 experiments. 
 
 
 relevant papers: 
