@@ -1,4 +1,5 @@
 
+# Shared abstract computation in transformers
 
 This project intends to test the conditions and mechanisms under/using which transformers form shared circuits (reuse the same heads and mlps) for the same underlying computations, but which are represented in the form of tasks which appear different on the surface. 
 
@@ -38,16 +39,6 @@ It contains 4 experiments, from two angles -- 1. an abstract comparison operatio
 
 - [Mixing Mechanisms: How LMs Retrieve Bound Entities In-Context](https://arxiv.org/html/2510.06182v1) — Gur-Arieh et al.  
   Investigates the mechanisms language models use to retrieve entities bound to contextual information.
-
-
-# Shared abstract computation in transformers
-
-This project tests **when and how transformers form shared circuits**: whether they reuse the same heads and MLPs for the same underlying computation when the tasks look different on the surface.
-
-There are four experiments, approached from two angles:
-
-1. **Controlled models trained from scratch.** Small transformers learn ordinal operations (successor, predecessor, comparison) over several unrelated domains. The question is whether they share part of the computation across domains, and whether that sharing predicts generalisation.
-2. **Pretrained language models.** The IOI (Indirect Object Identification) and Colored Objects (CO) circuits overlap in GPT-2 Medium ([Merullo et al.](https://arxiv.org/abs/2310.08744)). These experiments ask what the overlap means: a shared variable, a shared routine, or shared heads used differently. They run on GPT-2 small, GPT-2 Medium and Qwen2.5-0.5B.
 
 **Headline so far.** The evidence points to **reuse without abstraction**:
 
