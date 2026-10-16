@@ -4,12 +4,11 @@ This project intends to test the conditions and mechanisms under/using which tra
 
 It contains 4 experiments, across two different angles -- 1. an abstract comparison operation that is tested across four distinct domains. 2. the IOI (Indirect object Identificaiton) and  CO (Colored Objects) overlapping circuit across models like Qwen2, and GPT 2 Medium. 
 
-
-relevant papers: 
-## Neuroscience Motivation 
+## Neuroscience Motivation and Relevant Papers 
 - [The cognition and neuroscience of relational reasoning](https://sites.socsci.uci.edu/~lpearl/courses/readings/Krawczyk2010.pdf)
 - [Circuit Component Reuse Across Tasks in Transformer Language Models](https://arxiv.org/abs/2310.08744)
 - [Towards Interpretable Sequence Continuation: Analyzing Shared Circuits in Large Language Models](https://aclanthology.org/2024.emnlp-main.699/)
+- [Architecture, Not Scale: Circuit Localization in Large Language Models](https://arxiv.org/pdf/2605.08853)
 
 # Experiment 1
 A 'shared abstract computation' is considered: the comparison operator, but which can later include more complex operators such as symmetry, succession, rotation, etc which occur across tasks with disparate representations. 
